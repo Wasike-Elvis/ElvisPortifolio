@@ -1,0 +1,65 @@
+img{
+ width: 80px;
+ height: 80px;
+ border-radius: 20px;
+ display: block;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(22, 177, 43);
+  }
+  ul li :hover{
+    background-color: rgba(146, 87, 223, 0.6);
+  }
+ul li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .submenu{
+      display: none;
+  }
+  ul li:hover ul{
+      display: block;
+      position: absolute;
+  }
+  ul li:hover .submenu{
+      display: block;
+      position: absolute;
+  }
+ body{
+  background-image: url(Images/download.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+ .brief{
+  width: 250px;
+  background-color: powderblue;
+  text-align: center;
+ }
+ .brief2{
+  width: 250px;
+ }
+ .brief3{
+  width: 250px;
+  background-color: powderblue;
+  text-align: center;
+ }
+ .brief4{
+  width: 250px;
+ }
+ .All{
+   justify-content: space-between;
+   display: flex;
+   width: 85%;
+ }
+ 
