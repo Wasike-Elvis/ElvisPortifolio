@@ -10,7 +10,7 @@
 * easy-to-understand
 * use simple and easy fomat to desing basic Html and Css
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{they are no bugs but your advice on how to make the page look more beautiful will be highly appreciated }
 ## Technologies Used
 {I only used basic html and css to create a simple and easily understood potifolio with all my biography abd data.}
 ## Support and contact details
