@@ -4,11 +4,11 @@
 ## Description
 {This is potifolio is used to understand who I am as a person and developer. It contains all the details of my skills and hobbies, my education and a short biography about my self. it also contains some contacts about me and how one can reach and communicate with me using different communication channels available on the portifolio landing page on the top right of the contacts page highlighted with a light green color}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
+* There are no setup requirements
+* There are no set up instructions
+* it is simple to read and navigate
 * easy-to-understand
-* format
+* use simple and easy fomat to desing basic Html and Css
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
