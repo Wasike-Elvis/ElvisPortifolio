@@ -41,9 +41,7 @@ ul li {
       position: absolute;
   }
  body{
-  background-image: url(Images/download.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: lightgray;
  }
  h4{
    text-align: center;
@@ -129,4 +127,8 @@ input[type=submit]{
 }
 input[type=submit]:hover{
   background-color: #45a049;
+}
+.social{
+  float: right;
+  background-color: yellowgreen;
 }
