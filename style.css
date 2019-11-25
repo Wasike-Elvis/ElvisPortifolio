@@ -21,7 +21,6 @@ ul {
 ul li {
     float: right;
   }
-  
   li a {
     display: block;
     color: white;
@@ -58,7 +57,6 @@ ul li {
    grid-template-columns: 1fr 1fr 200px;
    grid-gap:10px;  
    grid-auto-rows: 200px; 
- 
  }
  .All div:nth-child(even){
    background-color: powderblue;
@@ -102,7 +100,6 @@ h3 {
   text-align: center;
   color: blue;
 }
-
 .container {
   margin: auto;
   width: 300px;
